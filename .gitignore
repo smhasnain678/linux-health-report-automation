@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+*.log
+logs/
+Linux-Reports/
+.env
