@@ -3,4 +3,4 @@ __pycache__/
 *.log
 logs/
 Linux-Reports/
-.env
+.venv/
